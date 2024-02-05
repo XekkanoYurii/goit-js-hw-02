@@ -1,4 +1,4 @@
-'use strict'
+
 function getShippingCost(country) {
     let price;
     switch (country.toLowerCase()) {
